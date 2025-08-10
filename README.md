@@ -38,3 +38,5 @@ This imbalance caused the regression model to perform poorly in detecting actual
 - Fraudulent transactions accounted for less than X% of the dataset, requiring targeted model adjustments.
 - Random Forest outperformed the baseline regression approach in detecting fraud cases.
 - Handling class imbalance is critical in real-world fraud detection scenarios.
+
+Dataset source: Kaggle
